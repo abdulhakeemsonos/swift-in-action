@@ -1,4 +1,4 @@
-# Swift code samples for Kotlin in Action, Second Edition [![JetBrains team project](https://jb.gg/badges/team-flat-square.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub) 
+# Swift code samples for Kotlin in Action, Second Edition
 
 This project contains the code samples from book "[Kotlin in Action, Second Edition](http://kotl.in/in-action)"
 by [Sebastian Aigner](https://twitter.com/sebi_io), [Roman Elizarov](https://twitter.com/relizarov), [Svetlana Isakova](https://twitter.com/sveta_isakova),
