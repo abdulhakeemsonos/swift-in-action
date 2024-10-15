@@ -14,11 +14,16 @@ let package = Package(
 
     products: [
             .executable(name: "ch01", targets: ["ch01"]),
+            .executable(name: "ch02", targets: ["ch02"]),
         ],
     targets: [
             .executableTarget(
                 name: "ch01",
                 path: "Sources/ch01"
+            ),
+            .executableTarget(
+                name: "ch02",
+                path: "Sources/ch02"
             ),
         ]
 )
