@@ -15,4 +15,16 @@
 //run_2_16_2()
 
 // This runs 2.1.6_3_StringTemplates.swift
-run_2_16_3()
+//run_2_16_3()
+
+// This runs 2.2.1_3_AssociatingDataWithAClassAndmakingItAccessibleProperties2.swift
+//run_2_21_3()
+
+// This runs 2.2.2_ComputingPropertiesInsteadOfStoringTheirValuesCustomAccessors.swift
+//run_2_2_2()
+
+// This runs 2.2.3_2_RectangleExample.swift
+//run_2_23_2()
+
+// This runs 2.3.1_colors.swift
+run_2_31()
