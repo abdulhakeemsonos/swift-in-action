@@ -27,4 +27,17 @@
 //run_2_23_2()
 
 // This runs 2.3.1_colors.swift
-run_2_31()
+//run_2_31()
+
+// This runs 2.3.2_1_SwitchEnums.swift
+//run_2_32_1()
+
+// This runs 2.3.2_2_GetWarmth.swift
+//run_2_32_2()
+
+// This runs 2.3.4_UsingSwitchWithArbitraryObjects.swift
+//run_2_34_1()
+//run_2_34_2()
+
+// This runs 2.3.6_SmartCasts.swift
+run_2_36()
